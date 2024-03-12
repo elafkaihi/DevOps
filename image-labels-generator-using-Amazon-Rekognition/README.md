@@ -28,6 +28,8 @@ Let's import the necessary libraries. We need:
 
 
 Next to Do:
+
+
     Expand the project to include face recognition capabilities.
     AWS Rekognition offers face recognition APIs that allow you to detect and recognize faces in images or videos.
     We can use this feature for applications like user authentication, access control, or personalized recommendations.

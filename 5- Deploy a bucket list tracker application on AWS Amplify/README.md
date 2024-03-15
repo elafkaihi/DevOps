@@ -1,4 +1,5 @@
 Overview of Project ☁️
+
 The project is to deploy a 'Bucket List Tracker' application on AWS Amplify.It's about creating serverless applications.
 
 Services Used 🛠

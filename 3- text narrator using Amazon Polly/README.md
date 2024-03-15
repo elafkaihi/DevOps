@@ -14,7 +14,7 @@ This it the architectural diagram for the project:
 
 ➡️ Final Result
 
-This is what the project look like:
+This is what the project look like, once built:
 
 ![image](https://github.com/ElMehdiiiii/DevOps/assets/115099306/db5918df-ae23-473f-a637-3b3bedd32824)
 

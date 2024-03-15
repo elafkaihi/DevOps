@@ -15,16 +15,9 @@ This it the architectural diagram for the project:
 
 ➡️ Final Result
 
-This is what your project will look like, once built:
+This is what the project look like, once built:
 
 ![image](https://github.com/ElMehdiiiii/image-labels-generator-using-Amazon-Rekognition-/assets/115099306/44aa12e3-1ccf-4aa7-b409-0c92f044430f)
-
-Let's import the necessary libraries. We need:
-
-    boto3 for interacting with AWS services.
-    matplotlib for visualization.
-    PIL (Python Imaging Library) for handling image data.
-    BytesIO from the io module to work with image data.
 
 
 Next to Do:

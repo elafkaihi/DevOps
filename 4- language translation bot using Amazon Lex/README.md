@@ -20,6 +20,6 @@ This it the architectural diagram for the project:
 
 ➡️ Final Result
 
-This is what your project will look like, once built:
+This is what the project look like, once built:
 
 ![image](https://github.com/ElMehdiiiii/DevOps/assets/115099306/c278e781-ea09-42ff-aa30-40c4c91435cf)

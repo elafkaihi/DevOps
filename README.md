@@ -1,3 +1,3 @@
 # DevOps
 
-5- beginner friendly projects :)
+5 beginner friendly projects :)
